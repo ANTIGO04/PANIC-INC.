@@ -1,0 +1,16 @@
+# Arquivos de cache e build do GameMaker
+.gmx/
+.yyz/
+options/main/template_info.yy
+*.win
+*.unx
+*.ios
+*.android
+*.zip
+*.user
+*.log
+
+# Pastas temporárias geradas na compilação
+/export/
+/build/
+/crashes/
