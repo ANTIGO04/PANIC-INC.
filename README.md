@@ -1,0 +1,2 @@
+# PANIC-INC.
+Um jogo Multiplayer Cooperativo de Caos e Sobrevivência.  Vocês são um grupo de 2 a 4 trabalhadores falidos contratados por uma corporação suspeita para cumprir missões bizarras em locais mal-assombrados ou em ruínas (tipo desarmar bombas, resgatar artefatos, reparar geradores enquanto fogem de monstros bizarros).
